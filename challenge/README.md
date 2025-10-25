@@ -32,7 +32,7 @@ Crie um arquivo `index.html` dentro da pasta `blog` que contenha:
 
 **Estrutura necessária:**
 - Título da página: "Meu Blog" ou similar
-- 
+
 ### **💼 Passo 4: Desenvolver a Página do Portfólio**
 Crie um arquivo `index.html` dentro da pasta `portfolio` com:
 
